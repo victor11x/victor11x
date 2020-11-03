@@ -52,7 +52,7 @@ AceleraDev-Desafios: https://github.com/victor11x/Desafio-AceleraDev-DataScience
 
 Prever o preço da Bolsa de valores: https://github.com/victor11x/Regress-o-Linear-com-Machine-Learning-/blob/master/machine%20learning%20-%20prever%20o%20pre%C3%A7o%20de%20a%C3%A7%C3%B5es.ipynb
 
-
+Prever vendas das lojas ROSSMANN: https://github.com/victor11x/Projeto-de-prever-vendas-da-ROSSMANN/blob/main/Projeto_Preve_vendas_das_lojas_ROSSAMANN.ipynb
  
  ### Agradecimento aos Tutores:
   
