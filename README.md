@@ -42,7 +42,7 @@
 <br />
 <br />
 
-**Experiência em:** Experiência em exploração de dados,pré-processamento,estatísticas,regressão linear e Machine Learning. Competência técnica com Python, R, Matplotlib, Sklearn,Power BI, VBA, SQL Server, Azure e IBM Cloud
+**Experiência em:** Experiência em exploração de dados,pré-processamento,estatísticas,regressão linear e Machine Learning. Competência técnica com Python, R, Matplotlib, Sklearn,Power BI, VBA, SQL, Azure e IBM Cloud
 
 ## Projetos:
 
