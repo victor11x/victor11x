@@ -14,7 +14,7 @@
 
 - 💻 **Background em: Python, Machine Learning, Business Intelligent e Estatistica.**
 
-- 🧠 **Atualmente estou estudando Django com Python e também tirando uma certificação Data Science IBM.** 
+- 🧠 **Atualmente estou estudando Django com Python e também tirando uma certificação Data Science IBM.**
 
 
 ### Contatos:
@@ -46,14 +46,17 @@
 
 ## Projetos:
 
-Analise de Sentimentos: https://github.com/victor11x/Analise-Sentimento---Scraping-Google-Play
+Prever quantidade de vendas das lojas ROSSMANN com ferramenta Propheft do fabebook: https://github.com/victor11x/Projeto-de-prever-vendas-da-ROSSMANN/blob/main/Projeto_Preve_vendas_das_lojas_ROSSAMANN.ipynb
+
+Participei de Bootcamp do Leonardo Karpinksi projeto de BI em equipe e implementamos algoritmos de machine Learning no PowerBI para prever Faturamento Bruto da empresa HPN:https://app.powerbi.com/view?r=eyJrIjoiYzZiZjdmNTctMzE2MS00ZWY3LTlmMjEtMjY1ZDViZDFhNzY3IiwidCI6IjgxNWY2NzA4LTQ2NzctNGRiZS05MzI0LWJmMGQ5MjY4YjgzNCJ9
+
+Analise de Sentimentos utilizando ferramenta de Web Scraping para coleta dos dados: https://github.com/victor11x/Analise-Sentimento---Scraping-Google-Play
 
 AceleraDev-Desafios: https://github.com/victor11x/Desafio-AceleraDev-DataScience
 
 Prever o preço da Bolsa de valores: https://github.com/victor11x/Regress-o-Linear-com-Machine-Learning-/blob/master/machine%20learning%20-%20prever%20o%20pre%C3%A7o%20de%20a%C3%A7%C3%B5es.ipynb
 
-Prever vendas das lojas ROSSMANN: https://github.com/victor11x/Projeto-de-prever-vendas-da-ROSSMANN/blob/main/Projeto_Preve_vendas_das_lojas_ROSSAMANN.ipynb
- 
+
  ### Agradecimento aos Tutores:
   
  
