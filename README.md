@@ -48,7 +48,7 @@
 
 Prever quantidade de vendas das lojas ROSSMANN com ferramenta Propheft do fabebook: https://github.com/victor11x/Projeto-de-prever-vendas-da-ROSSMANN/blob/main/Projeto_Preve_vendas_das_lojas_ROSSAMANN.ipynb
 
-Participei de Bootcamp do Leonardo Karpinksi projeto de BI em equipe e implementamos algoritmos de machine Learning no PowerBI para prever Faturamento Bruto da empresa HPN:https://app.powerbi.com/view?r=eyJrIjoiYzZiZjdmNTctMzE2MS00ZWY3LTlmMjEtMjY1ZDViZDFhNzY3IiwidCI6IjgxNWY2NzA4LTQ2NzctNGRiZS05MzI0LWJmMGQ5MjY4YjgzNCJ9
+Projeto de BI com algoritmos de Machine Learning no PowerBI para prever Faturamento Bruto da empresa HPN:https://app.powerbi.com/view?r=eyJrIjoiYzZiZjdmNTctMzE2MS00ZWY3LTlmMjEtMjY1ZDViZDFhNzY3IiwidCI6IjgxNWY2NzA4LTQ2NzctNGRiZS05MzI0LWJmMGQ5MjY4YjgzNCJ9
 
 Analise de Sentimentos utilizando ferramenta de Web Scraping para coleta dos dados: https://github.com/victor11x/Analise-Sentimento---Scraping-Google-Play
 
